@@ -7,23 +7,30 @@
 
 
 {
-"name": "nice 1",
+"name": "Theater 1",
 "image": "https://drive.google.com/uc?id=1OENXBAPACtNCCnNSbilNRDugHIvwBJGN",
 "url": "https://raw.githubusercontent.com/opknice/m3u-movie/main/2.1%20Movie.w3u",
 "import": false
 },
 
 {
-"name": "nice 2",
+"name": "Theater 2",
 "image": "https://drive.google.com/uc?id=1OENXBAPACtNCCnNSbilNRDugHIvwBJGN",
 "url": "https://raw.githubusercontent.com/opknice/m3u-movie/main/2.2%20Movie.w3u",
 "import": false
 },
 
 {
-"name": "nice 3",
+"name": "Theater 3",
 "image": "https://drive.google.com/uc?id=1OENXBAPACtNCCnNSbilNRDugHIvwBJGN",
 "url": "https://raw.githubusercontent.com/opknice/m3u-movie/main/2.3%20Movie.w3u",
+"import": false
+},
+
+{
+"name": "Movie From 123-HD",
+"image": "https://drive.google.com/uc?id=1OENXBAPACtNCCnNSbilNRDugHIvwBJGN",
+"url": "https://raw.githubusercontent.com/opknice/m3u-movie/main/2.4%20Movie.w3u",
 "import": false
 },
 
