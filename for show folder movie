@@ -1,0 +1,31 @@
+{
+"name": "Movie",
+"author": "BOMB645 หัวควย โง่! เสียเงินให้คนอื่นเขา ไม่มีวัวผสมเลย กร๊ากๆๆๆ",
+"url": "https://drive.google.com/uc?id=1HQny1-zthnFq_8OwIz4Z7YCOkBvc0TLX", 
+"image": "https://drive.google.com/uc?id=1OENXBAPACtNCCnNSbilNRDugHIvwBJGN",
+"groups": [
+
+
+{
+"name": "nice 1",
+"image": "https://drive.google.com/uc?id=1OENXBAPACtNCCnNSbilNRDugHIvwBJGN",
+"url": "https://raw.githubusercontent.com/opknice/m3u-movie/main/2.1%20Movie.w3u",
+"import": false
+},
+
+{
+"name": "nice 2",
+"image": "https://drive.google.com/uc?id=1OENXBAPACtNCCnNSbilNRDugHIvwBJGN",
+"url": "https://raw.githubusercontent.com/opknice/m3u-movie/main/2.2%20Movie.w3u",
+"import": false
+},
+
+{
+"name": "nice 3",
+"image": "https://drive.google.com/uc?id=1OENXBAPACtNCCnNSbilNRDugHIvwBJGN",
+"url": "https://raw.githubusercontent.com/opknice/m3u-movie/main/2.3%20Movie.w3u",
+"import": false
+},
+
+]
+}
